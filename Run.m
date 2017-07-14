@@ -1,5 +1,5 @@
-% setup_image = 'DS12.jpg';
-setup_image = 'eye.png';
+% setup_image = 'images/DS12.jpg';
+setup_image = 'images/eye.png';
 
 % Load the image
 loaded_img =  imread(setup_image);
